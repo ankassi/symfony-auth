@@ -25,8 +25,6 @@ Symfony и Docker-папки должны лежать на одном уров�
 
 ```bash
 git clone git@github.com:ankassi/docker-symfony-auth.git
-cd symfony-auth-docker
-docker compose up -d
 
 ```
 
